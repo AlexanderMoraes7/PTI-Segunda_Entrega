@@ -34,15 +34,15 @@
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](link_para_imagem_do_diagrama_de_uso)
+![Diagrama de Casos de Uso](Diagrama01.png)
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](link_para_imagem_do_diagrama_de_classes)
+![Diagrama de Classes](Diagrama02.png)
 
 ## Prototipação de Baixa Fidelidade
 
-![Protótipo de Baixa Fidelidade](link_para_imagem_do_prototipo_baixa_fidelidade)
+![Protótipo de Baixa Fidelidade](Diagrama_De_Baixa_Fidelidade.png)
 
 ## Prototipação de Alta Fidelidade
 
