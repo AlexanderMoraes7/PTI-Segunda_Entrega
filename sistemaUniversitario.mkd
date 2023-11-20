@@ -47,13 +47,13 @@
 ## Prototipação de Alta Fidelidade
 
 ### Tela de Admin
-![Tela de Admin](link_para_imagem_do_prototipo_admin)
+![Tela de Admin](Administracao.png)
 
 ### Tela dos Professores
-![Tela dos Professores](link_para_imagem_do_prototipo_professores)
+![Tela dos Professores](Professores.png)
 
 ### Tela dos Alunos
-![Tela dos Alunos](link_para_imagem_do_prototipo_alunos)
+![Tela dos Alunos](Alunos.png)
 
 ### Tela de Fornecedores
-![Tela de Fornecedores](link_para_imagem_do_prototipo_fornecedores)
+![Tela de Fornecedores](Fornecedores.png)
