@@ -1,0 +1,59 @@
+# Sistema Universitário
+
+## Lista de Funcionalidades
+
+### Alunos
+- Matrícula em disciplina
+- Acesso às notas
+- Visualizar horários de aula
+- Trancar curso
+- Atualizar dados
+- Solicitar suporte
+- Realizar login
+
+### Professores
+- Registro de presença
+- Matricular aluno
+- Acessar horário de aulas
+- Lançar notas
+- Atualizar dados
+- Visualizar perfil de aluno
+
+### Fornecedores
+- Enviar orçamentos
+- Fornecer materiais
+- Receber pedidos de compra
+- Verificar status de pagamento
+
+### Administradores
+- Comprar materiais
+- Cadastro de professores
+- Requisição de orçamentos
+- Desligar professor
+- Visualizar orçamentos
+
+## Diagrama de Casos de Uso
+
+![Diagrama de Casos de Uso](link_para_imagem_do_diagrama_de_uso)
+
+## Diagrama de Classes
+
+![Diagrama de Classes](link_para_imagem_do_diagrama_de_classes)
+
+## Prototipação de Baixa Fidelidade
+
+![Protótipo de Baixa Fidelidade](link_para_imagem_do_prototipo_baixa_fidelidade)
+
+## Prototipação de Alta Fidelidade
+
+### Tela de Admin
+![Tela de Admin](link_para_imagem_do_prototipo_admin)
+
+### Tela dos Professores
+![Tela dos Professores](link_para_imagem_do_prototipo_professores)
+
+### Tela dos Alunos
+![Tela dos Alunos](link_para_imagem_do_prototipo_alunos)
+
+### Tela de Fornecedores
+![Tela de Fornecedores](link_para_imagem_do_prototipo_fornecedores)
